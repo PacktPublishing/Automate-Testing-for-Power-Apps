@@ -15,6 +15,9 @@ jobs:
     strategy:
       matrix:
         dotnet-version: ['6.0.x']
+    defaults:
+      run:
+        working-directory: Chapter-11/PowerApps-TestEngine/src/PowerAppsTestEngine
 
     steps:
     - uses: actions/checkout@v3
