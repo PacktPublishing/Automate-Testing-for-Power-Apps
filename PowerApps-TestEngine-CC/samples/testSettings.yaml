@@ -1,4 +1,0 @@
-locale: "en-US"
-recordVideo: true
-browserConfigurations:
-  - browser: Chromium
