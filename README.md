@@ -16,17 +16,17 @@ It is recommended to run within a Power Apps developer environment.
 
 # [Automate Testing for Power Apps](https://github.com/PacktPublishing/Automate-Testing-for-Power-Apps/archive/refs/heads/main.zip) code examples used in the book.
 
-## [Chapter 1 - TBC](TBC)
+## [Chapter 1 - Software Quality and Types of Testing](chapter-01/README.md)
 
-## [Chapter 2 - TBC](TBC)
+## [Chapter 2 - Power Apps Studio Techniques and Automation Tools](chapter-02/README.md)
 
-## [Chapter 3 - TBC](TBC)
+## [Chapter 3 - Power Fx overview and usage in testing](chapter-03/README.md)
 
-## [Chapter 4 - TBC](TBC)
+## [Chapter 4 - Planning a Testing Phase in a Power Apps Project](chapter-04/README.md)
 
-## [Chapter 11 - TBC](TBC)
+## [Chapter 11 - Mocks with Test Engine](chapter-11/README.md)
 
-## [Chapter 12 - TBC](TBC)
+## [Chapter 12 - Telemetry and Power Apps](chapter-12/README.md)
 
 ## Citation
 If you find this work useful, please cite:
