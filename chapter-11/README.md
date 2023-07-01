@@ -15,9 +15,12 @@ Chapter 11 presents additional mock routing options not presented in the 1.0.5-p
 You can use the zip files in a windows system. For Linux compile or run from source code.
 For windows:
 - Download and extract the zip file contents in a folder
+
 ![Alt text](extract-files_screenshot.png)
 - Set up the [config file](https://github.com/microsoft/PowerApps-TestEngine#2-set-up-the-config-file) with the data from your environment
 - Open a PowerShell terminal from the file directory
+
 ![Alt text](open-terminal_screenshot.png)
 - Execute and confirm results
+
 ![Alt text](run-files_screenshot.png)
