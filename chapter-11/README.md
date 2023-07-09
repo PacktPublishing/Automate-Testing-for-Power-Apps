@@ -7,6 +7,8 @@ This folder contains code and samples presented in chapter 11 "Mocks with test E
 
 2.- [Mock samples files](mock-samples.zip)
 
+3.- [Sample Power Apps app for tests](PowerParse_20230702205914.zip)
+
 ### Setup Power Apps environment
 TBC + Samples files + test plan file
 
