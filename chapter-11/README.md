@@ -5,7 +5,7 @@ This folder contains code and samples presented in chapter 11 "Mocks with test E
 
 1.- [Test Engine fork for additional mock routing](PowerAppsTestEngine_chapter_11.zip)
 
-2.- [Mock samples files](mock-samples.zip)
+2.- [Mock samples files](testplans.zip)
 
 3.- [Sample Power Apps app for tests](PowerParse_1_0_0_0.zip)
 
@@ -22,7 +22,7 @@ For windows:
 - Download and extract the zip file contents in a folder
 
 ![Alt text](extract-files_screenshot.png)
-- Set up the [config file](https://github.com/microsoft/PowerApps-TestEngine#2-set-up-the-config-file) with the data from your environment, using the [mock files samples](mock-samples.zip)
+- Set up the [config file](https://github.com/microsoft/PowerApps-TestEngine#2-set-up-the-config-file) with the data from your environment, using the [mock files samples](testplans.zip)
 - Open a PowerShell terminal from the file directory
 
 ![Alt text](open-terminal_screenshot.png)
