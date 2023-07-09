@@ -9,9 +9,9 @@ This folder contains code and samples presented in chapter 11 "Mocks with test E
 
 3.- [Sample Power Apps app for tests](PowerParse_20230702205914.zip)
 
-### Setup Power Apps environment
-Chapter 5 guides you in the first step to provision a trial or developer tenant so you can deploy and test the examples. In a nutshell:
-- Set up a trial or developer tenant to follow the instructions
+### Setup Power Apps environment and files needed
+[Chapter 5](../chapter-05) guides you in the first step, and it describes how to provision a trial or developer tenant so you can deploy and test the examples. In a nutshell you will follow three steps:
+- Set up a trial or developer tenant to follow the instructions from that chapter
 - Deploy samples app called [Power Parse](PowerParse_20230702205914.zip) to your environment
 - Check Mock samples to be used with the Power Parse sample app
 
