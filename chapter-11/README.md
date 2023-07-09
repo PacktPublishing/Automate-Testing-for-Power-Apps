@@ -10,7 +10,10 @@ This folder contains code and samples presented in chapter 11 "Mocks with test E
 3.- [Sample Power Apps app for tests](PowerParse_20230702205914.zip)
 
 ### Setup Power Apps environment
-TBC + Samples files + test plan file
+Chapter 5 guides you in the first step to provision a trial or developer tenant so you can deploy and test the examples. In a nutshell:
+- Set up a trial or developer tenant to follow the instructions
+- Deploy samples app called Power Parse to your environment
+- Check Mock samples to be used with the Power Parse sample app
 
 ### Steps to use chapter 11 files
 Chapter 11 presents additional mock routing options not presented in the 1.0.5-preview version of Test Engine. This fork available from the release of [Test Engine 1.0.5-preview-mock](https://github.com/carloshm/PowerApps-TestEngine/tree/1.0.5-preview-mocks) is used in the examples.
