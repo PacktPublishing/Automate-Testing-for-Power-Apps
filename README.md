@@ -9,6 +9,8 @@ TBC
 ## Related Products
 * [Power Apps Test Engine](https://github.com/carloshm/PowerApps-TestEngine)
 
+* [Power Docu](https://github.com/modery/PowerDocu/releases/tag/v-1.2.4)
+
 * [PowerApps-PowerHeat](https://github.com/carloshm/PowerApps-PowerHeat)
 
 ## Installation
