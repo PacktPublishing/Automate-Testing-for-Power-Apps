@@ -8,7 +8,7 @@ You can use any Pwoer Apps environment to test Power FX, but as Power Fx is an o
 The [Console REPL](https://github.com/microsoft/Power-Fx/tree/main/src/tools/Repl) will be used, from the latest version of [Power Fx](https://github.com/microsoft/Power-Fx), and a compiled version could be downloaded from this chapter repo.
 
 You can see an example fo the first sample
-Just download and extract the [compiled version of ConsoleREPL](ConsoleREPL.zip.001) (2 files 001 / 002) and copy and paste the files for each sample (files ending .fx)
+Just download and extract the [compiled version of REPL](REPL.zip.001) (2 files 001 / 002) and copy and paste the files for each sample (files ending .fx)
 
 [sample01.fx](sample01.fx)
 ``` Power Fx
