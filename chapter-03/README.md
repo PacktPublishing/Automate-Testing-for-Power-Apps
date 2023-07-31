@@ -12,8 +12,8 @@ Just download and extract the [compiled version of REPL](REPL.zip.001) (2 files 
 
 [sample01.fx](sample01.fx)
 ``` Power Fx
-Set( Velocity, 20 )
-Set( Time, 5 )
+Set( Velocity; 20 )
+Set( Time; 5 )
 Distance = Velocity * Time
 ```
 
