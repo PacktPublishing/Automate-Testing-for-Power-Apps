@@ -1,4 +1,4 @@
-# Chapter 5 Introducing Test Studio – Canvas Apps Testing with a Sample Case Study
+# Chapter 6 Overview of Test Engine, evolution and comparison
 ## Code companion
 
-This folder contains code and samples presented in chapter 5 "Introducing Test Studio – Canvas Apps Testing with a Sample Case Study".
+This folder contains code and samples presented in chapter 6 "Overview of Test Engine, evolution and comparison.
