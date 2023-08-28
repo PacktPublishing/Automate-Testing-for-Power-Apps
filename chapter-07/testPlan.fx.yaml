@@ -1,0 +1,26 @@
+testSuite:
+  testSuiteName: Basic Gallery
+  testSuiteDescription: Verifies that you can interact with controls within a basic gallery
+  persona: User1
+  appLogicalName: new_galleryappbase_835fc
+
+  testCases:
+  - testCaseName: Check Row5 (Email)
+    testCaseDescription: ''
+    testSteps: |
+      = Screenshot("basicgallery_loaded.png");
+        Select(Gallery1, 5, NextArrow1);
+        Assert(Index(Gallery1.AllItems, 5).Title1.Text = "Gisela Schmidt", "Email in row 5 does not correspomd");  
+        Screenshot("basicgallery_row5.png");
+
+testSettings:
+  locale: "en-US"
+  recordVideo: true
+  headless: false
+  browserConfigurations:
+    - browser: Chromium
+environmentVariables:
+  users:
+    - personaName: User1
+      emailKey: user1Email
+      passwordKey: user1Password

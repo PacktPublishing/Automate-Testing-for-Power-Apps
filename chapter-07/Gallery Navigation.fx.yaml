@@ -1,0 +1,34 @@
+testSuite:
+  testSuiteName: Gallery Navigation
+  testSuiteDescription: ''
+  persona: User1
+  appLogicalName: new_galleryappbase_835fc
+  appId: ''
+  onTestCaseStart: ""
+  onTestCaseComplete: ""
+  onTestSuiteComplete: ""
+  networkRequestMocks: 
+  testCases:
+  - testCaseName: Check Row5 and 3 (Email and Full Name)
+    testCaseDescription: ''
+    testSteps: |
+      = 
+      Screenshot("gallerycontacts_loaded.png");
+      Select(Gallery1, 5, NextArrow1);
+      Assert(Index(Gallery1.AllItems, 5).Subtitle1.Text = "gisela.schmidt@acme.com", "Email in row 5 does not correspomd");
+      Screenshot("gallerycontacts_contacts5.png");
+      Select(Gallery1, 3, NextArrow1);
+      Assert(Index(Gallery1.AllItems, 3).Title1.Text = "Ramon Fernandez", "Full name in row 3 does not correspond");
+      Screenshot("gallerycontacts_contacts3.png");
+
+testSettings:
+  locale: "en-US"
+  recordVideo: true
+  headless: false
+  browserConfigurations:
+    - browser: Chromium
+environmentVariables:
+  users:
+    - personaName: User1
+      emailKey: user1Email
+      passwordKey: user1Password
