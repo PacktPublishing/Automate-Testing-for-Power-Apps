@@ -2,7 +2,7 @@
   "environmentId": "xxx",
   "tenantId": "xxx",
   "testPlanFile": "C:/PowerApps-TestEngine/samples/basicgallery/testPlan.fx.yaml",
-  "outputDirectory": "D:/results/basicgallery",
+  "outputDirectory": "C:/results/basicgallery",
   "logLevel": "",
   "domain":  "",
   "queryParams": ""
