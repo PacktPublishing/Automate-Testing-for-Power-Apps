@@ -1,7 +1,7 @@
 {
   "environmentId": "xxx",
   "tenantId": "xxx",
-  "testPlanFile": "C:/PowerApps-TestEngine/samples/basicgallery/testPlan.fx.yaml",
+  "testPlanFile": "C:/PowerApps-TestEngine/samples/basicgallery/Gallery Navigation.fx.yaml",
   "outputDirectory": "C:/results/basicgallery",
   "logLevel": "",
   "domain":  "",
