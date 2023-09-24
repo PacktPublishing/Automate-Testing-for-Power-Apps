@@ -4,7 +4,13 @@ This is the code and resources repository for [Automate Testing for Power Apps](
 **Please note that the book is pending publishing.**
 
 ## About the Book
-TBC
+Low-code testing helps build better applications, freeing one from frustrating problems faced while enhancing app features. Automate Testing for Power Apps will show you how to utilize automation testing to build better Canvas apps.
+
+You’ll start by understanding the fundamentals of automation testing, different approaches for low code testing, and its application to Power Apps. Once you are acquainted with the required knowledge, you’ll learn how to use Test Studio, Power Automate Desktop, and other tools to automate testing for your Canvas apps. You'll discover how to incorporate testing into your deployment processes for faster and more reliable releases.
+
+Additionally, this book covers advanced topics such as PCF Components testing and model-driven apps. You will discover the new open-source project, Power Apps Test Engine, that provides makers with a single automated testing platform for all Power Apps. You'll learn how to test these more complex components to ensure the highest quality and business value for your Power Apps.
+
+By the end of this book, you'll be a pro at using automation testing to build better Power Apps, reduce app release times, and increase the quality of your applications.
 
 ## Related Products
 * [Power Apps Test Engine](https://github.com/carloshm/PowerApps-TestEngine)
