@@ -13,11 +13,11 @@ Additionally, this book covers advanced topics such as PCF Components testing an
 By the end of this book, you'll be a pro at using automation testing to build better Power Apps, reduce app release times, and increase the quality of your applications.
 
 ## Related Products
-* [Power Apps Test Engine](https://github.com/carloshm/PowerApps-TestEngine)
+* [Power Apps Test Engine](https://github.com/microsoft/PowerApps-TestEngine)
+
+* **Forked branch** [Power Apps Test Engine for Advanced scenarios](https://github.com/carloshm/PowerApps-TestEngine)
 
 * [Power Docu](https://github.com/modery/PowerDocu/releases/tag/v-1.2.4)
-
-* [PowerApps-PowerHeat](https://github.com/carloshm/PowerApps-PowerHeat)
 
 ## Installation
 It is recommended to run within a Power Apps developer environment.
