@@ -17,7 +17,7 @@ By the end of this book, you'll be a pro at using automation testing to build be
 ## Related Products
 * [Power Apps Test Engine](https://github.com/microsoft/PowerApps-TestEngine)
 
-* **Forked branch** [Power Apps Test Engine for Advanced scenarios](https://github.com/carloshm/PowerApps-TestEngine)
+* **Forked branch** [Power Apps Test Engine for Advanced scenarios](https://github.com/carloshm/PowerApps-TestEngine/tree/preview-mocks)
 
 * [Power Docu](https://github.com/modery/PowerDocu/releases/tag/v-1.2.4)
 
