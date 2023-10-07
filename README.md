@@ -3,7 +3,7 @@ This is the code and resources repository for [Automate Testing for Power Apps](
 
 > **Note:** This book is based on a preview version of the specified software. The software is subject to change, and some features or explanations provided in this book may vary in the final release of the software.
 
-**Please note that the book is pending publishing.**
+:exclamation: **Please note that the book is pending publishing.**
 
 ## About the Book
 Low-code testing helps build better applications, freeing one from frustrating problems faced while enhancing app features. Automate Testing for Power Apps will show you how to utilize automation testing to build better Canvas apps.
