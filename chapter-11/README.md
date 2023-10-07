@@ -1,4 +1,11 @@
 # Chapter 11 Mocks with Test Engine
+
+> **Note:** This book is based on a preview version of the specified software. The software is subject to change, and some features or explanations provided in this book may vary in the final release of the software.
+
+#### Why Utilize a Forked Version of Test Engine?
+
+The existing version of Test Engine, particularly in the Mock scenario, presents certain limitations. To address this, we introduced an experimental version aimed at comprehending the various mock strategies in play. As of October 2023, Test Engine awaits the integration of several key features. These features are vital for executing third-party services necessitating the persistence of user interaction or the acceptance of authorization flows.
+
 ## Code companion
 
 This folder contains code and samples presented in chapter 11 "Mocks with test Engine". For simplicity, the release from this fork [https://github.com/carloshm/PowerApps-TestEngine/](https://github.com/carloshm/PowerApps-TestEngine/tree/1.0.5-preview-mocks) is used, with changes presented in the chapter.
