@@ -2,7 +2,7 @@
 
 #### Why Utilize a Forked Version of Test Engine?
 
-The existing version of Test Engine, particularly in the Mock scenario, presents certain limitations. To address this, we introduced an experimental version aimed at comprehending the various mock strategies in play. As of October 2023, Test Engine awaits the integration of several key features. These features are vital for executing third-party services necessitating the persistence of user interaction or the acceptance of authorization flows (_Services consent: "Almost there ... /YourApp/ needs your permission to use the following. Please allow the permissions to proceed"_).
+The existing version of Test Engine, particularly in the Mock scenario, presents certain limitations. To address this, we introduced an experimental version aimed at comprehending the various mock strategies in play. As of October 2023, Test Engine awaits the integration of several key features. These features are vital for executing third-party services necessitating the persistence of user interaction or the acceptance of authorization flows in app permissions dialog (_Services consent: "Almost there ... /YourApp/ needs your permission to use the following. Please allow the permissions to proceed"_).
 
 ## Code companion
 
