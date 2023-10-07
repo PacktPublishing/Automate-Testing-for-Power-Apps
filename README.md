@@ -1,6 +1,8 @@
 # Automate Testing for Power Apps
 This is the code and resources repository for [Automate Testing for Power Apps](https://www.packtpub.com/programming/Automate-Testing-for-Power-Apps), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish. 
 
+> **Note:** This book is based on a preview version of the specified software. The software is subject to change, and some features or explanations provided in this book may vary in the final release of the software.
+
 **Please note that the book is pending publishing.**
 
 ## About the Book
