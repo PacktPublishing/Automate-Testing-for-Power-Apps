@@ -17,4 +17,6 @@ Set( Time; 5 )
 Distance = Velocity * Time
 ```
 
+_Note: In Power Fx, the usage of the semicolon (;) and comma (,) as function argument separators is influenced by the locale setting. English should use "," and other languages ";"_
+
 ![first sample](sample01.png)
