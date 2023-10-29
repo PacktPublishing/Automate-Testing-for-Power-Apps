@@ -50,15 +50,19 @@ It is recommended to run within a Power Apps developer environment.
 
 ### [Chapter 12 - Telemetry and Power Apps](chapter-12/README.md)
 
+## Issues
+Submit any [issue](/issues) for errors or feedback with the supported material.
+
 ## Citation
 If you find this work useful, please cite:
 
 ```
-@book{dehuerta2023automate,
-  title={Automate Testing for Power Apps: A practical guide to applying low code automation testing tools and techniques},
-  author={De Huerta, Carlos and Calvo, Cesar},
+@book{CésarCalvo2023-10-31,
+  title={Automate Testing for Power Apps: A practical guide to applying low-code automation testing tools and techniques},
+  author={César, Calvo and Huerta, Carlos de},
+  publisher={Packt Publishing},
   year={2023},
-  publisher={Packt Publishing Ltd}
+  language={English}
 }
 
 ```
