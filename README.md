@@ -57,9 +57,9 @@ Submit any [issue](https://github.com/PacktPublishing/Automate-Testing-for-Power
 If you find this work useful, please cite:
 
 ```
-@book{CésarCalvo2023,
+@book{CésarCarlos2023,
   title={Automate Testing for Power Apps: A practical guide to applying low-code automation testing tools and techniques},
-  author={César, Calvo and Huerta, Carlos de},
+  author={Huerta, Carlos de and Calvo, César},
   publisher={Packt Publishing},
   year={2023},
   language={English}
