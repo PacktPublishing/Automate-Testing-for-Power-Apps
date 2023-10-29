@@ -51,7 +51,7 @@ It is recommended to run within a Power Apps developer environment.
 ### [Chapter 12 - Telemetry and Power Apps](chapter-12/README.md)
 
 ## Issues
-Submit any [issue](/issues) for errors or feedback with the supported material.
+Submit any [issue](https://github.com/PacktPublishing/Automate-Testing-for-Power-Apps/issues) for errors or feedback with the supported material.
 
 ## Citation
 If you find this work useful, please cite:
